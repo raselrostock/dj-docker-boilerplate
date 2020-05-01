@@ -7,3 +7,6 @@ venv/
 .vscode/
 db.sqlite3
 info.txt
+app/assets/
+app/staticfiles/
+app/mediafiles/

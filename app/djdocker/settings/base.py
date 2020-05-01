@@ -21,6 +21,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Installed App
     'upload.apps.UploadConfig',
+    'pages.apps.PagesConfig',
 ]
 
 
